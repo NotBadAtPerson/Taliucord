@@ -1,0 +1,16 @@
+{
+    "manifest": {},
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "active_channel": -490887,
+        "input_background": -769226,
+        "mention_highlight": -16537100,
+        "accent": -14575885,
+        "background": -15987700,
+        "background_secondary": -16053493,
+        "statusbar": -1499549
+    },
+    "colors": {},
+    "drawable_tints": {}
+}
